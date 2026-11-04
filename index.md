@@ -14,6 +14,6 @@ A spatial history of your place and the places it was tied to.
 
 [Read the essay](essay.html)
 
-## The Essay
+## The Lasting Influence of Immigration on Boston’s North End
 
 Paste your essay here in paragraphs.

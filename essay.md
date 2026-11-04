@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Essay
+title: The Lasting Influence of Immigration on Boston’s North End
 ---
 {% include nav.html %}
 The Italian and Eastern European immigrants who settled in Boston’s North End shaped the neighborhood into what it is today. While the area has changed over time, its immigrant roots are still visible in its culture and traditions, demonstrating how the neighborhood balances preserving history with adapting to modernization. 

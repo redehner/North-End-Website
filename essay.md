@@ -14,7 +14,7 @@ While having a different reason for abandoning their home countries, Jewish immi
 [^2]: Stephen Puleo, *The Boston Italians* (Beacon Press, 2007)
 [^3]: Herman Rosenthal, *MAY LAWS - JewishEncyclopedia.Com.* (2021)
 [^4]: Jewish Virtual Library, *Moscow Jewish Community History* (2022)
-[^5]: HISTORY.com Editors, *Pogroms - Meaning, Russia & Jewish | HISTORY.* (2018).
+[^5]: HISTORY.com Editors, *Pogroms - Meaning, Russia & Jewish HISTORY.* (2018).
 
 ## Map Connection
 

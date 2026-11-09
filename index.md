@@ -5,7 +5,7 @@ layout: default
 
 # The Immigrants who Made Boston's North End What it is Today
 
-A spatial history of your place and the places it was tied to.
+![How tightly immigrants from Italy were packed on immigration ships with the dream of finding a better life in America](migration-boat_orig.jpg)
 
 ## North End Migration Patterns
 
@@ -16,4 +16,4 @@ A spatial history of your place and the places it was tied to.
 
 ## The Lasting Influence of Immigration on Boston’s North End
 
-Paste your essay here in paragraphs.
+![The bustling streets of Little Italy](little italy street.jpg)

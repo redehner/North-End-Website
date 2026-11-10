@@ -16,4 +16,4 @@ layout: default
 
 ## The Lasting Influence of Immigration on Boston’s North End
 
-![The bustling streets of Little Italy](little italy street.jpg)
+![The bustling streets of Little Italy](little-italy-street.jpg)

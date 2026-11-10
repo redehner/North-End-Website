@@ -12,8 +12,8 @@ layout: default
 <iframe src="map/" width="100%" height="520"
   style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
-[Read the essay](essay.html)
-
 ## The Lasting Influence of Immigration on Boston’s North End
+
+[Read the essay](essay.html)
 
 ![The bustling streets of Little Italy](little-italy-street.jpg)

@@ -1,4 +1,4 @@
-d---
+---
 layout: default
 title: The Lasting Influence of Immigration on Boston’s North End
 ---

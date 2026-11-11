@@ -19,3 +19,5 @@ layout: default
 [Read the essay](essay.html)
 
 ![The bustling streets of Little Italy](images/little-italy-street.jpg)
+
+*The bustling streets of Little Italy*

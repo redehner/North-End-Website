@@ -6,7 +6,9 @@ title: The Lasting Influence of Immigration on Boston’s North End
 
 ![The harsh conditions that many Italians lived in during the late 19th and early 20th century](images/man-sitting-on-chair.jpg)
 
-*The harsh conditions that many Italians lived in during the late 19th and early 20th century*
+*The harsh conditions that many Italians lived in during the late 19th and early 20th century*[^6]
+
+[^6]: (Italian-Americans: The History of Immigration to America, 2017)
 
 The Italian and Eastern European immigrants who settled in Boston’s North End shaped the neighborhood into what it is today. While the area has changed over time, its immigrant roots are still visible in its culture and traditions, demonstrating how the neighborhood balances preserving history with adapting to modernization. Points on the map represent the different cities and regions immigrants originated from and the locations where they settled in Boston. Lines illustrate migration routes from Europe to the North End, and eventually from the North End to other areas of Boston. Lastly, polygons illustrate the boundaries of the North End, where different immigrant communities established themselves and the major areas they originated from. Examining these patterns of migration reveals how the North End became the culturally flourishing neighborhood it is today. 
 
@@ -46,13 +48,19 @@ Italian and Eastern European Jewish immigrants came to Boston for a slew of reas
 
 HISTORY.com Editors. “Pogroms - Meaning, Russia & Jewish | HISTORY.” History, 25 Jan. 
 	2018, https://www.history.com/articles/pogroms. Accessed 25 Oct. 2026.
-	
+
+Italian-americans: The history of immigration to America. (2017). Grand Voyage Italy. 
+	http://www.grandvoyageitaly.com/7/post/2017/08/italian-americans-the-history-of-immigration-to-america.html
+
 Jewish Virtual Library. “Moscow (Jewish Community History).” Jewish Virtual Library, 
 	https://jewishvirtuallibrary.org/Moscow. Accessed 25 Oct. 2026.
 	
 Library of Congress. “The Great Arrival | Italian | Immigration and Relocation in U.S. History | 
 	Classroom Materials at the Library of Congress | Library of Congress.” Library of Congress, 2023, 		
 	https://www.loc.gov/classroom-materials/immigration/italian/the-great-arrival/. Accessed 25 Oct. 2026.
+
+Margareth. (2021, April 21). Walking through the real little Italy. BfBD Boutique. 	
+	https://www.blissfrombygonedays.com/post/hang-out-with-me-in-boston-historic-north-end
 	
 Puleo, Stephen. The Boston Italians: A Story of Pride, Perseverance, and Paesani, From the 
 	Years of the Great Immigration to the Present Day. Beacon Press, 2007.

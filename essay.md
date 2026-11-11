@@ -4,7 +4,7 @@ title: The Lasting Influence of Immigration on Boston’s North End
 ---
 {% include nav.html %}
 
-![The harsh conditions that many Italians lived in during the late 19th and early 20th century.](man-sitting-on-chair.jpg)
+![The harsh conditions that many Italians lived in during the late 19th and early 20th century.]images/(man-sitting-on-chair.jpg)
 
 The Italian and Eastern European immigrants who settled in Boston’s North End shaped the neighborhood into what it is today. While the area has changed over time, its immigrant roots are still visible in its culture and traditions, demonstrating how the neighborhood balances preserving history with adapting to modernization. Points on the map represent the different cities and regions immigrants originated from and the locations where they settled in Boston. Lines illustrate migration routes from Europe to the North End, and eventually from the North End to other areas of Boston. Lastly, polygons illustrate the boundaries of the North End, where different immigrant communities established themselves and the major areas they originated from. Examining these patterns of migration reveals how the North End became the culturally flourishing neighborhood it is today. 
 

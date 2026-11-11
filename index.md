@@ -5,7 +5,7 @@ layout: default
 
 # The Immigrants who Made Boston's North End What it is Today
 
-(images/migration-boat_orig.jpg)![How tightly immigrants from Italy were packed on immigration ships with the dream of finding a better life in America]
+![How tightly immigrants from Italy were packed on immigration ships with the dream of finding a better life in America](images/migration-boat_orig.jpg)
 
 ## North End Migration Patterns
 

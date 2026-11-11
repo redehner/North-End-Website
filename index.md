@@ -7,7 +7,9 @@ layout: default
 
 ![How tightly immigrants from Italy were packed on immigration ships with the dream of finding a better life in America](images/migration-boat_orig.jpg)
 
-*How tightly immigrants from Italy were packed on immigration ships with the dream of finding a better life in America*
+*How tightly immigrants from Italy were packed on immigration ships with the dream of finding a better life in America*[^1]
+
+[^1]: (Italian-Americans: The History of Immigration to America, 2017)
 
 ## North End Migration Patterns
 
@@ -20,4 +22,6 @@ layout: default
 
 ![The bustling streets of Little Italy](images/little-italy-street.jpg)
 
-*The bustling streets of Little Italy*
+*The bustling streets of Little Italy*[^2]
+
+[^2]: (Margareth, 2021)

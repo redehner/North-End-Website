@@ -7,6 +7,8 @@ layout: default
 
 ![How tightly immigrants from Italy were packed on immigration ships with the dream of finding a better life in America](images/migration-boat_orig.jpg)
 
+*How tightly immigrants from Italy were packed on immigration ships with the dream of finding a better life in America*
+
 ## North End Migration Patterns
 
 <iframe src="map/" width="100%" height="520"
